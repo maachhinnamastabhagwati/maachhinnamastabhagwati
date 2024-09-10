@@ -12,5 +12,3 @@ Chhinnamasta Bhagwati Temple is a revered Hindu temple dedicated to Goddess Chhi
 - **Visitor Information**: Details on visiting hours, guidelines, and amenities.
 
 
-   ```sh
-   git clone https://github.com/yourusername/chhinnamasta-bhagwati-temple.git
